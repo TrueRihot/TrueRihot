@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @TrueRihot
 - 👀 I’m interested in Rollercoasters
-- 🌱 I’m currently learning gsap and react
-
-Im pretty new to coding and to coding frontend. So if you see some dumb stuff in my code dont hate
+- 🌱 Currently im working on a Content Platform and some other THREE.js projects @Startupwerk in Oberhausen
+- 🏢 [Startup-werk Oberhausen](https://link-url-here.org](https://startup-werk.de/)https://startup-werk.de/)
+- ❤️ Spread more love for Angular
+- 🛠️ got 99 Sidetracks but ain't completed one
