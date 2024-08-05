@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @TrueRihot
 - 👀 I’m interested in Rollercoasters
-- 🌱 Currently im working on a Content Platform and some other Business-Applications, using Angular, Next and THREE.js @Startupwerk in Oberhausen
+- 🌱 Currently im working on a large scale Content Platform and some other Business-Applications, using Angular, Next and THREE.js @Startupwerk in Oberhausen
 - 🏢 [Startup-werk Oberhausen](https://link-url-here.org](https://startup-werk.de/)https://startup-werk.de/)
-- ❤️ Spread more love for Angular
+- 📚 My Techstack reaches from different Frontend Frameworks like React and Angular to Multiplatform stuff as well, like Expo/React-Native and Ionic/Capacitor. If you want to learn more about my stack reach out to me or visit [Theilweise](https://www.theilweise.de/)
+- I'm up for new Projects on a private as well as on a business-level. If it's creative or sounds interesting, I'm in! 
 - 🛠️ got 99 Sidetracks but ain't completed one
